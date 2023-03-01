@@ -1,0 +1,81 @@
+@import "nullstyle.css";
+ul{
+    list-style: none;
+}
+body{
+    background-color: #871515;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template: minmax(100px, auto) 1fr minmax(70px, auto) / 1fr;
+}
+.content {
+}
+
+.header {
+    background-color: #871515;
+}
+.header__logo {
+}
+.header__menu {
+
+}
+.header__list {
+}
+.header__link {
+    font-size: ;
+}
+.header__burger {
+}
+.main {
+
+}
+.sidebar {
+}
+.sidebar__menu {
+}
+.sidebar__list {
+}
+.sidebar__link {
+}
+.content__title {
+}
+.content__gallery {
+}
+.gallery {
+}
+.gallety__title {
+}
+.gallery__items {
+}
+.gallery__item {
+}
+.gallery__item_big {
+}
+.content__products {
+}
+.products {
+}
+.products__title {
+}
+.products__items {
+}
+.products__item {
+}
+.products__image {
+}
+.products__name {
+}
+.products__button {
+}
+.footer {
+    background-color: #977777;
+
+}
+.footer__copy {
+}
+.footer__text {
+}
